@@ -92,6 +92,8 @@ $$A^T P + P A - P B R^{-1} B^T P + Q = 0$$
 > **Block Diagram**
 >
 > ![LQR Controller Block Diagram](https://github.com/user-attachments/assets/763aa732-e332-4e71-b380-d1c6146237fe)
+<img width="1774" height="887" alt="LQR_BLOCK_DIAGRAM" src="https://github.com/user-attachments/assets/380e32e4-5751-42d0-af17-045d4a2e7a19" />
+
 >
 > *Figure 3: Optimal state-feedback LQR control architecture.*
 
